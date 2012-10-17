@@ -1,0 +1,24 @@
+#sdk: "/Users/raghunadh/.rvm/gems/ruby-1.9.3-p194/gems/rhodes-3.4.2"
+sdkversion: 3.4.0
+name: RhoMobileApplication1
+version: 1.0
+vendor: rhomobile
+build: debug
+bbver: 4.6
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator5.0
+  provisionprofile:
+  codesignidentity:
+  entitlements:
+  BundleIdentifier: com.rhomobile.rhomobileapplication1
+  BundleURLScheme: rhomobileapplication1
+wp:
+  productid: '9f2f4640-f35c-012f-1dea-2820660e6225'
+symbian:
+  uid: '0xe945302c'
+android:
+  version: 2.1
+
+extensions: ["json", "another-extension"]

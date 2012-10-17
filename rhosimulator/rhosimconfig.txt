@@ -1,0 +1,8 @@
+rhodes_path='/Users/raghunadh/.rvm/gems/ruby-1.9.3-p194/gems/rhodes-3.4.2'
+app_version='1.0'
+app_name='RhoMobileApplication1'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='iphone'
+ext_path=/Users/raghunadh/.rvm/gems/ruby-1.9.3-p194/gems/rhodes-3.4.2/lib/extensions/json;
